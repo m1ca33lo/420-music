@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
+<h1 align="center"><img src="./assets/logo.png" width="30px"> Discord Music Bot <img src="./assets/logo.png" width="30px"></h1>
 <p align="center">Thanks for 25k Views with 500 subs!</p>
 
 ## ✨Latest Updates
@@ -30,7 +30,7 @@ If you have major coding issues with this bot, please join and ask for help.
 
 <div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
 
-<div align="center"><img src="/assets/features.png"></div>
+<div align="center"><img src="/assets/feature.png"></div>
 
 ## 💨 Run the projects
 
